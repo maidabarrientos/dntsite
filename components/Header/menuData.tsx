@@ -13,14 +13,9 @@ const menuData: Menu[] = [
     newTab: false,
     path: "/#features"
   },
+ 
   {
-    id: 2.1,
-    title: "Blog",
-    newTab: false,
-    path: "/blog"
-  },
-  {
-    id: 2.3,
+    id: 3,
     title: "Docs",
     newTab: false,
     path: "/docs"
@@ -32,6 +27,12 @@ const menuData: Menu[] = [
     newTab: false,
     path: "/support"
   },
+  {
+    id: 5,
+    title: "Sign In",
+    newTab: false,
+    path: "/auth/signin"
+  }
 ];
 
 export default menuData;

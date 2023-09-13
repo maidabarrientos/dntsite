@@ -35,30 +35,39 @@ const Pricing = () => {
             {/* <!-- Pricing Item --> */}
             <div className="animate_top md:w-[45%] lg:w-1/3 group relative bg-white dark:bg-blacksection rounded-lg shadow-solid-10 dark:shadow-none border border-stroke dark:border-strokedark p-7.5 xl:p-12.5">
               <h3 className="text-black dark:text-white font-bold text-3xl xl:text-sectiontitle3 mb-7.5">
-                $10{" "}
+                $20{" "}
                 <span className="text-regular text-waterloo dark:text-manatee">
                   /month
                 </span>
               </h3>
               <h4 className="text-black dark:text-white font-medium text-para2 mb-2.5">
-                Small Pack
+                Small Portfolio
               </h4>
-              <p>Lorem ipsum dolor sit amet, consec adipisicing elit.</p>
+              <p>Good for 1 to 24 Domains</p>
 
               <div className="border-t border-stroke dark:border-strokedark mt-9 pt-9 pb-12.5">
                 <ul>
                   <li className="text-black dark:text-manatee mb-4 last:mb-0">
-                    300 GB Storage
+                  Domain Checks: Verify the trademark status of up to 10 domains.
+  
                   </li>
                   <li className="text-black dark:text-manatee mb-4 last:mb-0">
-                    Unlimited Photos and Videos
+                  Instant Notifications: Receive real-time alerts via email and SMS for any potential trademark conflicts.
+   
                   </li>
                   <li className="text-black dark:text-manatee mb-4 last:mb-0 opacity-40">
-                    Exclusive Support
+                  Secure Your Brand: Protect your online presence from legal disputes and trademark issues.
+  
                   </li>
                   <li className="text-black dark:text-manatee mb-4 last:mb-0 opacity-40">
-                    Custom Branding Strategy
+                  Regular Updates: Stay informed about the status of your registered domains.
+    
                   </li>
+                  <li className="text-black dark:text-manatee mb-4 last:mb-0 opacity-40">
+                  24/7 Support: Access our customer support team whenever you need assistance.
+    
+                  </li>
+                  
                 </ul>
               </div>
 
@@ -94,23 +103,35 @@ const Pricing = () => {
                 </span>
               </h3>
               <h4 className="text-black dark:text-white font-medium text-para2 mb-2.5">
-                Medium Pack
+               Check 25 to 500 Domains
               </h4>
-              <p>Lorem ipsum dolor sit amet, consec adipisicing elit.</p>
+              <p>Good for Medium sized portfolio</p>
 
               <div className="border-t border-stroke dark:border-strokedark mt-9 pt-9 pb-12.5">
                 <ul>
                   <li className="text-black dark:text-manatee mb-4 last:mb-0">
-                    300 GB Storage
+                  Domain Checks: Verify the trademark status of 26 to 500 domains.
+    
                   </li>
                   <li className="text-black dark:text-manatee mb-4 last:mb-0">
-                    Unlimited Photos and Videos
+                  Bulk Checks: Streamline the process with bulk domain checking for efficient management.
+   
                   </li>
                   <li className="text-black dark:text-manatee mb-4 last:mb-0">
-                    Exclusive Support
+                  Instant Notifications: Receive real-time alerts via email and SMS for any potential trademark conflicts.
+   
                   </li>
-                  <li className="text-black dark:text-manatee mb-4 last:mb-0 opacity-40">
-                    Custom Branding Strategy
+                  <li className="text-black dark:text-manatee mb-4 last:mb-0">
+                  Secure Your Brand: Protect your online presence from legal disputes and trademark issues.
+  
+                  </li>
+                  <li className="text-black dark:text-manatee mb-4 last:mb-0">
+                  Regular Updates: Stay informed about the status of your registered domains.
+  
+                  </li>
+                  <li className="text-black dark:text-manatee mb-4 last:mb-0">
+                                  
+                  Priority Support: Enjoy priority access to our dedicated customer support team.
                   </li>
                 </ul>
               </div>
@@ -137,30 +158,46 @@ const Pricing = () => {
             {/* <!-- Pricing Item --> */}
             <div className="animate_top md:w-[45%] lg:w-1/3 group relative bg-white dark:bg-blacksection rounded-lg shadow-solid-10 dark:shadow-none border border-stroke dark:border-strokedark p-7.5 xl:p-12.5">
               <h3 className="text-black dark:text-white font-bold text-3xl xl:text-sectiontitle3 mb-7.5">
-                $189{" "}
+                $199{" "}
                 <span className="text-regular text-waterloo dark:text-manatee">
                   /month
                 </span>
               </h3>
               <h4 className="text-black dark:text-white font-medium text-para2 mb-2.5">
-                Large Pack
+                Pro Domainer
               </h4>
-              <p>Lorem ipsum dolor sit amet, consec adipisicing elit.</p>
+              <p>Check up to 2500 Portfolio and succeeding Domains is only charged .03 cents per domain</p>
 
               <div className="border-t border-stroke dark:border-strokedark mt-9 pt-9 pb-12.5">
                 <ul>
                   <li className="text-black dark:text-manatee mb-4 last:mb-0">
-                    300 GB Storage
+                  Domain Checks: Verify the trademark status of up to 2500 domains.
+    
                   </li>
                   <li className="text-black dark:text-manatee mb-4 last:mb-0">
-                    Unlimited Photos and Videos
+                  Comprehensive Coverage: Ensure all your domains are monitored for trademark conflicts.
+    
                   </li>
                   <li className="text-black dark:text-manatee mb-4 last:mb-0">
-                    Exclusive Support
+                  Instant Notifications: Receive real-time alerts via email and SMS for any potential trademark conflicts.
+    
                   </li>
                   <li className="text-black dark:text-manatee mb-4 last:mb-0">
-                    Custom Branding Strategy
+                  Secure Your Brand: Protect your online presence from legal disputes and trademark issues.
+    
                   </li>
+                  
+                  <li className="text-black dark:text-manatee mb-4 last:mb-0">
+                  Regular Updates: Stay informed about the status of your registered domains.
+    
+                  </li>
+                  
+                  <li className="text-black dark:text-manatee mb-4 last:mb-0">
+                  Dedicated Account Manager: Get personalized assistance and support with a dedicated account manager.
+    
+                  </li>
+                  
+    
                 </ul>
               </div>
 

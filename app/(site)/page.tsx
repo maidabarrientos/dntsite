@@ -27,9 +27,10 @@ export default function Home() {
       <Feature />
       <About />
       <Brands />
-      <Blog />     
-    
-      <Testimonial />
+      
+      <Pricing />
+      <CTA />
+     <Testimonial />
     </main>
   );
 }

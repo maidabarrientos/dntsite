@@ -33,21 +33,21 @@ const Footer = () => {
                   <Image
                     width={110}
                     height={80}
-                    src="/images/logo/logo-light.svg"
-                    alt="Logo"
+                    src="/images/logo/logo-dntrademark-final.png"
+                    alt="dn trademark platform"
                     className="dark:hidden"
                   />
                   <Image
                     width={110}
                     height={80}
-                    src="/images/logo/logo-dark.svg"
-                    alt="Logo"
+                    src="/images/logo/logo-dntrademark-final.png"
+                    alt="dn trademark platform"
                     className="hidden dark:block"
                   />
                 </a>
 
                 <p className="mt-5 mb-10">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                is a SaaS platform designed to provide an efficient and user-friendly way to check domain names against global trademark databases.
                 </p>
 
                 <p className="uppercase tracking-[5px] text-sectiontitle mb-1.5">
@@ -57,7 +57,7 @@ const Footer = () => {
                   href="#"
                   className="text-black dark:text-white font-medium text-itemtitle"
                 >
-                  hello@solid.com
+                  support@dntrademark.com
                 </a>
               </motion.div>
 
@@ -95,23 +95,23 @@ const Footer = () => {
                     </li>
                     <li>
                       <a
-                        href="#"
+                        href="/features"
                         className="inline-block hover:text-primary mb-3"
                       >
-                        Product
+                        Features
                       </a>
                     </li>
                     <li>
                       <a
-                        href="#"
+                        href="/partners"
                         className="inline-block hover:text-primary mb-3"
                       >
-                        Careers
+                        Partners
                       </a>
                     </li>
                     <li>
                       <a
-                        href="#"
+                        href="/#pricing"
                         className="inline-block hover:text-primary mb-3"
                       >
                         Pricing
@@ -145,31 +145,17 @@ const Footer = () => {
                   <ul>
                     <li>
                       <a
-                        href="#"
+                        href="/#about"
                         className="inline-block hover:text-primary mb-3"
                       >
                         Company
                       </a>
                     </li>
+                    
+                    
                     <li>
                       <a
-                        href="#"
-                        className="inline-block hover:text-primary mb-3"
-                      >
-                        Press media
-                      </a>
-                    </li>
-                    <li>
-                      <a
-                        href="#"
-                        className="inline-block hover:text-primary mb-3"
-                      >
-                        Our Blog
-                      </a>
-                    </li>
-                    <li>
-                      <a
-                        href="#"
+                        href="/contact"
                         className="inline-block hover:text-primary mb-3"
                       >
                         Contact Us

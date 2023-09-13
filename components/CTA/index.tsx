@@ -29,12 +29,10 @@ const CTA = () => {
               className="animate_left md:w-[70%] lg:w-1/2"
             >
               <h2 className="text-black dark:text-white text-3xl xl:text-sectiontitle4 font-bold mb-4 w-11/12">
-                Join With Us Today & Increase Your Productivity
+                Join Us & Protect Your Domain Investments Today
               </h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. In
-                convallis tortor eros. Donec vitae tortor lacus. Phasellus
-                aliquam ante in maximus.
+              Safeguard your valuable domain assets with DNTrademark. Don't leave your brands vulnerable to trademark disputes. Act now to ensure your online presence is secure.
               </p>
             </motion.div>
             <motion.div

@@ -22,7 +22,7 @@ const Testimonial = () => {
               headerInfo={{
                 title: `TESTIMONIALS`,
                 subtitle: `Client’s Testimonials`,
-                description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor eros. Donec vitae tortor lacus. Phasellus aliquam ante in maximus.`,
+                description: `These testimonials showcase how DNTrademark has positively impacted various users, from domain investors to small business owners, by simplifying domain management and safeguarding against trademark conflicts.`,
               }}
             />
           </div>
@@ -79,7 +79,7 @@ const Testimonial = () => {
                       <h4 className="text-black dark:text-white text-metatitle3 mb-1.5">
                         Devid Smith
                       </h4>
-                      <p>Founter @democompany</p>
+                      <p>Founter @digitalsolutions</p>
                     </div>
                     <Image
                       width={60}
@@ -91,9 +91,7 @@ const Testimonial = () => {
                   </div>
 
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Mauris hendrerit, ligula sit amet cursus tincidunt, lorem
-                    sem elementum nisi, convallis fringilla ante nibh non urna.
+                  DNTrademark has been a game-changer for us. As a company heavily invested in domain assets, we were constantly worried about potential trademark conflicts. DNTrademark's real-time monitoring and proactive alerts have given us the peace of mind we needed. This platform is a must-have for any serious domain investor.
                   </p>
                 </div>
               </SwiperSlide>
@@ -105,7 +103,7 @@ const Testimonial = () => {
                       <h4 className="text-black dark:text-white text-metatitle3 mb-1.5">
                         Jhon Abraham
                       </h4>
-                      <p>Founter @democompany</p>
+                      <p>Founter @ichallenge</p>
                     </div>
                     <Image
                       width={60}
@@ -117,9 +115,7 @@ const Testimonial = () => {
                   </div>
 
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Mauris hendrerit, ligula sit amet cursus tincidunt, lorem
-                    sem elementum nisi, convallis fringilla ante nibh non urna.
+                  As a small business owner, I didn't have the resources to navigate the complexities of trademark law. DNTrademark made the process incredibly easy. I can now confidently choose domain names without the fear of legal complications. Thank you, DNTrademark, for protecting my business.
                   </p>
                 </div>
               </SwiperSlide>
@@ -131,7 +127,7 @@ const Testimonial = () => {
                       <h4 className="text-black dark:text-white text-metatitle3 mb-1.5">
                         Devid Smith
                       </h4>
-                      <p>Founter @democompany</p>
+                      <p>Domain Enthusiast</p>
                     </div>
                     <Image
                       width={60}
@@ -143,9 +139,7 @@ const Testimonial = () => {
                   </div>
 
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Mauris hendrerit, ligula sit amet cursus tincidunt, lorem
-                    sem elementum nisi, convallis fringilla ante nibh non urna.
+                  Managing a large domain portfolio can be challenging, especially when it comes to avoiding trademark conflicts. DNTrademark's bulk upload feature saved me countless hours, and their notifications ensure I'm always in the know. It's a valuable tool in my domain investment strategy.
                   </p>
                 </div>
               </SwiperSlide>
